@@ -1,0 +1,2 @@
+*.log
+airflow_02/logs/
